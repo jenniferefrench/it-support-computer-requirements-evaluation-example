@@ -21,7 +21,7 @@ The completed evaluation includes recommendations for processing power, memory, 
 
 The completed evaluation is available here:
 
-[Employee Computer Requirements Evaluation](./employee-computer-requirements-evaluation.pdf)
+[Employee Computer Requirements Evaluation](./employee-computer-requirements-evaluation.pdf.pdf)
 
 ## What I Learned
 
